@@ -1,0 +1,7 @@
+azure_subscription_id = "<subscription id goes here>"
+azure_client_id = "<client id goes here>"
+azure_client_secret = "<client secret goes here>"
+azure_tenant_id = "<tenant id goes here>"
+azure_ssh_key_data = "ssh-rsa <key>"
+azure_computer_name  = "terraform-linux-vm"
+azure_admin_username = "azureuser"

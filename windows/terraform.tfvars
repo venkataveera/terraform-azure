@@ -1,0 +1,6 @@
+azure_subscription_id = "<subscription id goes here>"
+azure_client_id = "<client id goes here>"
+azure_client_secret = "<client secret goes here>"
+azure_tenant_id = "<tenant id goes here>"
+azure_vm_username = "terraformuser"
+azure_vm_password = "Password#1"
