@@ -1,4 +1,4 @@
-# Creating Windows and Linux Virtual Machines using Terraform
+# Creating Windows and Linux Infrastructure using Terraform
 
 <!-- TOC -->
 
