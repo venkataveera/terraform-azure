@@ -1,4 +1,4 @@
-# Creating Windows and Linux Infrastructure using Terraform
+# Azure: Creating Windows and Linux Infrastructure using Terraform
 
 <!-- TOC -->
 
